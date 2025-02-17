@@ -1,4 +1,4 @@
-Greetings! I'm Donny Bell, aspiring Cyber enthusiast!
+Greetings! I'm Donny Bell, a Cyber and Coding enthusiast!
 
 <a href="https://linkedin.com/in/donnybell"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
